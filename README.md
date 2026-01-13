@@ -146,9 +146,8 @@ Setting the `splines` parameter to `true` in the `Chart` constructor will yield 
 
 ![Splines](https://raw.githubusercontent.com/far-analytics/pydot-flow/refs/heads/main/output-splines.png)
 
-
 ## Support
 
-If you have a feature request or run into any issues, feel free to submit an [issue](https://github.com/far-analytics/pydot-flow/issues) or start a [discussion](https://github.com/far-analytics/pydot-flow/discussions). You’re also welcome to reach out directly to one of the authors.
+If you have a feature request or run into any issues, feel free to submit an [issue](https://github.com/far-analytics/pydot-flow/issues). You’re also welcome to reach out to one of the authors.
 
 - [Adam Patterson](https://github.com/adpatter)
